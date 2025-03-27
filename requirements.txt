@@ -1,0 +1,8 @@
+flask
+flask_sqlalchemy
+gunicorn
+python-dotenv
+PyJWT
+pytest
+flask-cors
+flask-migrate
